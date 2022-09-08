@@ -1,0 +1,67 @@
+.home{
+    background-image: url("https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_960_720.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.mybg{
+    background-color: aliceblue;
+}
+
+.card_menu{
+    display: flex;
+    justify-content: center;
+}
+
+.m_card{
+    width: 17rem;
+    margin: 1rem;
+}
+
+.material-icons.md-50{
+    font-size: 40px;
+}
+
+
+.card_menu1{
+    display: flex;
+    justify-content: center;
+}
+
+.m_card1{
+    width: 8rem;
+    height: 10rem;
+    margin: 0.4rem;
+    padding: 1rem;
+}
+.card_menu2{
+    display: flex;
+    justify-content: center;
+}
+.m_card2{
+    width: 22rem;
+    height: 10rem;
+    padding: 1.5rem;
+    margin: 0.8rem;
+    
+}
+.img_md{
+    height: 16rem;
+    width: 18rem;
+    padding: 1rem;
+}
+.m_card3{
+    height: 25rem;
+    width: 23rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.m_card4{
+    height: 7rem;
+    width: 20rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+.mybg1{
+    background-color: rgba(0, 0, 0, 0.842);
+}
